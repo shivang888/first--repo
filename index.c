@@ -148,3 +148,5 @@ char checkCharcter(){
 //     else{
 //         printf("\n %cyour charcater is constant",ch);
 //     }
+
+// printf("hello shivang");
